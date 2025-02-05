@@ -1,4 +1,4 @@
-📌 15 anos | 2º ano do Ensino Médio
+📌 2º ano do Ensino Médio
 
 💻 Estudando Python e C#
 
